@@ -34,3 +34,4 @@ For the most basic setup, you can generate a basic data source by using the [ll-
 The returned URL will be your API url. Just click the button below, and fill in the appropriate fields.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Frishiosaur%2Fll&env=apiURL&project-name=link-shortener&repo-name=link-shortener)
+
