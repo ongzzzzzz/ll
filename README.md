@@ -9,7 +9,7 @@
 
 A minimal link shortener powered by Next.js and Vercel.
 
-## Structure of a route: 
+## Structure of a route:
 
 ```
 {
