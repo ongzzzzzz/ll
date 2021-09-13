@@ -87,6 +87,6 @@ export const getStaticProps = async () => {
 					title: d.title || 'n/a',
 				}))
 				.filter((x) => x.public),
-		},
+		}, revalidate: 10,
 	}
 }
